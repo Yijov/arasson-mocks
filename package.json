@@ -1,0 +1,23 @@
+{
+  "name": "arasson-mocks",
+  "version": "1.0.0",
+  "description": "mock server for projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon /index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yijov/arasson-mocks.git"
+  },
+  "author": "Yirbett Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yijov/arasson-mocks/issues"
+  },
+  "homepage": "https://github.com/Yijov/arasson-mocks#readme",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
